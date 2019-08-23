@@ -1,3 +1,27 @@
+# React todo mvc training project
+
+## Goal
+
+The goal of this project is to create a todo list application with react.
+
+### Features
+
+- Add a new todo item
+- Mark a todo item as done
+- Delete a todo item
+- Filter the todo items
+  - Show only items marked as done
+  - Show only items marked as not done
+  - Show all items in the todo list
+
+### Example
+
+An example of the working application can be found here:
+
+[http://todomvc.com/examples/react/#/](http://todomvc.com/examples/react/#/)
+
+## Create-react-app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
