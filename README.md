@@ -1,5 +1,12 @@
 # React todo mvc training project
 
+## Instructions
+
+- Fork this repository and make changes to your own fork.
+- Try to make small commits as you work and keep the contents related to the task in hand.
+- Ask if you have any questions or problems along the way.
+- Notify when you have completed a major step or finished the project so we can keep track on your progress and provide guidance.
+
 ## Goal
 
 The goal of this project is to create a todo list application with react.
